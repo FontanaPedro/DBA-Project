@@ -78,3 +78,6 @@ Unique values and their counts of column days_on_the_market_all_broker:
 Unique values and their counts of column change_broker:
  0 (60877), 1 (8857)
 
+
+
+
