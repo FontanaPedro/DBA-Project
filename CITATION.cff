@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pedro
+    given-names: Fontana
+    orcid: https://github.com/FontanaPedro/DBA.Project
+title: "DBA.Project"
+version: lastest
+doi: https://github.com/FontanaPedro/DBA.Project
+date-released: 2023-05
